@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="52563df7-3eed-45a0-b755-31803ec30382" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/all_collections/_posts/2023-10-13.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/all_collections/_posts/1948-12-12-the-purpose-of-education.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/all_collections/_posts/2021-11-04-jekyll-markdown.md" beforeDir="false" />
-    </list>
+    <list default="true" id="52563df7-3eed-45a0-b755-31803ec30382" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,7 +51,7 @@
       <workItem from="1697277557356" duration="313000" />
       <workItem from="1697277871254" duration="180000" />
       <workItem from="1697278052276" duration="825000" />
-      <workItem from="1697278878738" duration="107000" />
+      <workItem from="1697278878738" duration="794000" />
     </task>
     <servers />
   </component>
