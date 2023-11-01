@@ -2,7 +2,7 @@
 layout: post
 title: Return to programming experience
 date: 2023-11-01
-categories: [it, devops]
+categories: [it, devops, programming, discordbot]
 ---
 
 # Diving Back Into Programming: Stock-Value Discord Bot
