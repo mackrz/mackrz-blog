@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Return to programming experience
+title: Job Searching in IT as DevOps
 date: 2023-11-26
 categories: [it, devops, programming, work]
 ---
